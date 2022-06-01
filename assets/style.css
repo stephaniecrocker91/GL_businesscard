@@ -23,6 +23,7 @@ body {
     width: 550px;
     height: 300px;
     border: solid 0.5px rgb(125, 123, 123);
+    margin: 30px;
 }
 
 .card-front {
@@ -42,7 +43,7 @@ body {
 }
 
 .contact {
-    margin-top: 49px;
+    margin-top: 54.02px;
 }
 
 p {
